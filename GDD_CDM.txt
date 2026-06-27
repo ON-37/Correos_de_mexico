@@ -1,0 +1,82 @@
+GDD Correos de Mexico (Titulo provisional)
+
+
+Título: Como su nombre indica, debe ser el título de tu videojuego, el que vaya a representar tu proyecto.
+Estudio o Diseñadores: el nombre del estudio, empresa o diseñadores que formen parte del proyecto.
+Género: cuál es el género principal con el que definir tu juego, puede ser de Terror, Simulación, Aventuras, etc.
+Plataforma: a qué o cuántas plataformas va a estar disponible, PC, Xbox, Play Station, etc.
+Versión: número de la versión del documento, para conocer cuántos cambios se han ido realizando en el GDD
+Sinopsis y Contenido: escribe un pequeño resumen en un par de párrafos de tu proyecto, de qué trata y cuál es su esencia.
+Alcance: explica hasta donde llegará tu juego y si tendrá DLCs.
+Categoría: compara tu juego con los referentes en tu campo y prepara un análisis DAFO.
+
+Detalles de Producción
+Fecha de inicio del proyecto: fecha en la que comienza la etapa de producción
+Fecha de finalización: la fecha en la que termina esta etapa y ya podría estar listo para su comercialización.
+Presupuesto: deberás añadir en el GDD con una estimación aproximada el presupuesto que necesitarías para completar todo el proyecto en fecha.
+
+Guion
+Debes escribir el guion literario de tu juego. En él se debe incluir qué es lo más interesante del juego y qué ventajas tiene, explicar por qué la gente jugaría a tu juego.
+
+En este apartado del GDD se puede incluir la cinemática o tráiler además de los diálogos que se vayan a encontrar dentro del juego.
+
+Mecánicas
+En este apartado deberás explicar que cosas puede y no puede hacer el jugador.
+
+Cámara: qué tipo de cámara se utilizará, si es en 3D, 2D, vista isométrica, primera persona etc.
+Periféricos: debes incluir todos los necesarios para una experiencia óptima del jugador, teclado, mando, micrófonos, etc.
+Controles: una vez explicados los periféricos ahora deberás explicar qué botones y teclas vas a utilizar dentro del juego para que ocurran las acciones explicadas en las mecánicas.
+Guardar/Cargar: debes explicar la forma en la que el jugador guardará su progreso en el juego y la forma en la que podrá cargar partida para continuar.
+
+
+Interfaces
+Esta es una parte importante del GDD ya que describirás la apariencia del juego con los colores y temáticas. Es muy recomendable mostrar imágenes de cómo se ve o cómo se verá.
+
+Nombre de la pantalla: Si es el menú principal, menú de pausa, el HUD.
+Descripción de la pantalla: tienes que explicar para qué sirve la interfaz.
+Estados del juego: realiza una lista con todos los estados que necesiten una interfaz, con imágenes del concepto que tienes o tenéis en mente.
+
+
+Niveles
+La mayoría de juegos, por no decir todos, se dividen en niveles o mapas en los cuales debes realizar ciertas misiones o completar objetivos para avanzar al siguiente nivel. En esta sección deberás explicar estos niveles y qué cambia entre ellos.
+
+Título del nivel: su nombre.
+Descripción del nivel: debes describir si es el primer nivel, el tutorial.
+Objetivos: debes explicar qué debe hacer el jugador para completar el nivel, los acertijos que debe resolver, enemigos derrotados y explicar qué ocurre al terminar el nivel.
+Enemigos: si tu juego tiene enemigos en el nivel en el que estás deberás enumerar aquí cuántos son, de lo contrario se puede omitir.
+Objetos: enumera todos los objetos con los que el jugador puede interactuar y los que los enemigos pueden utilizar. Al igual que el anterior, si no existen objetos en este nivel se pueden omitir.
+Personajes: al igual que los puntos anteriores, enumerar los personajes que aparecen en este nivel u omitirlo si no existen.
+Música y efectos de sonido: explicar los sonidos del ambiente y la música del nivel.
+
+
+Progreso del juego
+Muestra la evolución de tu juego y sus niveles a través de un diagrama de flujo. Si tu juego no es posible proyectarlo en un diagrama deberás buscar la forma más visual en la que puedas describirlo.
+
+
+Personajes
+En este apartado deberás explicar con detalle a los personajes que aparecerán en el juego y sus características. Y de la misma forma explicar los enemigos:
+
+Nombre del personaje.
+Descripción: si es un humano, una criatura, algo sobrenatural, etc. Es muy recomendable añadir concepts para que sea más sencillo visualizarlo.
+Motivación del personaje: qué hace en ese lugar, qué está buscando, qué quiere conseguir.
+Encuentro: en qué momento y de qué forma aparece en el juego.
+Habilidades: describir en un lista qué es capaz de hacer el personaje.
+Armas y/o items: realizar una lista y describir cada uno.
+Personajes no jugables: npcs, estos no necesitan una descripción detallada , solo explicar si tu juego tendrá y si puedes interactuar de alguna forma con ellos aunque no interfiera con la historia.
+Para los enemigos es muy similar al anterior:
+
+Nombre del enemigo.
+Descripción: si es humano, criatura.. y su comportamiento ante ti y ante el resto de personajes. Recomendable añadir un concept del enemigo.
+Encuentro: en qué momento aparece.
+Habilidades: escribir una lista con sus habilidades.
+Armas y/o items: escribir una lista con ellos.
+
+
+Música y Sonidos
+Es necesario explicar las diferentes músicas y efectos de sonido que habrá dentro del juego, si son propias o assets. Para la música de fondo la referencia debe comenzar por una ‘M’ seguido del número de la secuencia. Al contrario, si es un efecto de sonido debe comenzar por una ‘S’.
+
+Arte y Concepts
+En este apartado tendrás que incluir todos los referentes artísticos que hayas tenido para la creación de tu videojuego, además de incluir todos los concepts y artes finales del juego, tanto fondos, personajes, objetos importantes.
+
+Miembros del Equipo
+Ya estamos llegando al final. Escribir una lista con todos los miembros del equipo con una pequeña descripción que defina el trabajo que han realizado en el proyecto.
