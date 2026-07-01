@@ -2,32 +2,35 @@ GDD Correos de Mexico (Titulo provisional)
 
 
 Título: Como su nombre indica, debe ser el título de tu videojuego, el que vaya a representar tu proyecto.
-Estudio o Diseñadores: el nombre del estudio, empresa o diseñadores que formen parte del proyecto.
-Género: cuál es el género principal con el que definir tu juego, puede ser de Terror, Simulación, Aventuras, etc.
-Plataforma: a qué o cuántas plataformas va a estar disponible, PC, Xbox, Play Station, etc.
-Versión: número de la versión del documento, para conocer cuántos cambios se han ido realizando en el GDD
-Sinopsis y Contenido: escribe un pequeño resumen en un par de párrafos de tu proyecto, de qué trata y cuál es su esencia.
-Alcance: explica hasta donde llegará tu juego y si tendrá DLCs.
-Categoría: compara tu juego con los referentes en tu campo y prepara un análisis DAFO.
+Estudio o Diseñadores: Jorge G, Adrian B, Octavio N.
+Género: simulación
+Plataforma: PC
+Versión: 1.0.0
+Sinopsis y Contenido: juego sobre un personaje que trabaja en una oficina de correos en los años 50's
+Alcance: juego base con actualizaciones por temporadas
+Categoría: simulador de vida
 
 Detalles de Producción
 Fecha de inicio del proyecto: fecha en la que comienza la etapa de producción
 Fecha de finalización: la fecha en la que termina esta etapa y ya podría estar listo para su comercialización.
-Presupuesto: deberás añadir en el GDD con una estimación aproximada el presupuesto que necesitarías para completar todo el proyecto en fecha.
+Presupuesto: $10,000 MXN
 
 Guion
 Debes escribir el guion literario de tu juego. En él se debe incluir qué es lo más interesante del juego y qué ventajas tiene, explicar por qué la gente jugaría a tu juego.
 
 En este apartado del GDD se puede incluir la cinemática o tráiler además de los diálogos que se vayan a encontrar dentro del juego.
 
+el juego inicia con el protagonista llegando a la oficina de correos a pedir empleo y es contratado inmediatamente
+
 Mecánicas
 En este apartado deberás explicar que cosas puede y no puede hacer el jugador.
 
-Cámara: qué tipo de cámara se utilizará, si es en 3D, 2D, vista isométrica, primera persona etc.
-Periféricos: debes incluir todos los necesarios para una experiencia óptima del jugador, teclado, mando, micrófonos, etc.
-Controles: una vez explicados los periféricos ahora deberás explicar qué botones y teclas vas a utilizar dentro del juego para que ocurran las acciones explicadas en las mecánicas.
-Guardar/Cargar: debes explicar la forma en la que el jugador guardará su progreso en el juego y la forma en la que podrá cargar partida para continuar.
+atender a los clientes, recibir cartas, paquetes y poner postales e y la información
 
+Cámara: vista top down
+Periféricos: teclado y ratón, mando
+Controles: una vez explicados los periféricos ahora deberás explicar qué botones y teclas vas a utilizar dentro del juego para que ocurran las acciones explicadas en las mecánicas.
+Guardar/Cargar: al dormir.
 
 Interfaces
 Esta es una parte importante del GDD ya que describirás la apariencia del juego con los colores y temáticas. Es muy recomendable mostrar imágenes de cómo se ve o cómo se verá.
